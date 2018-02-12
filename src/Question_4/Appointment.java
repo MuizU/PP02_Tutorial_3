@@ -1,4 +1,4 @@
-package Package_4;
+package Question_4;
 
 public class Appointment {
 }
